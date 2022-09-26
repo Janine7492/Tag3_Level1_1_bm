@@ -1,0 +1,11 @@
+html {
+    background-color: lightgray;
+}
+
+body p {
+    width: 200px;
+    padding: 25px 25px;
+    border: 25px solid black;
+    margin: 25px auto;
+    background-color: aquamarine;
+}
